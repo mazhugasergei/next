@@ -1,2 +1,2 @@
 ## How to start
-run ```npm run dev```
+Run ```npm run dev```
