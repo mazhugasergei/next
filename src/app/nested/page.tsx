@@ -3,8 +3,8 @@ import Link from "next/link"
 export default () => {
   return (
     <main>
-      <p>This is a Home page!</p>
-      <Link href="/nested">Nested Page</Link>
+      <p>It's a nested route page!</p>
+      <Link href="/">Home Page</Link>
     </main>
   )
 }
